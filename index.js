@@ -49,7 +49,7 @@ const main = async () => {
   const svgContent = `
     <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       ${selectedShape.render()}
-      <text x="150" y="100" font-size="16" text-anchor="middle" fill="${userInput.textColor}">
+      <text x="150" y="100" font-size="26" text-anchor="middle" fill="${userInput.textColor}">
         ${userInput.text}
       </text>
     </svg>
