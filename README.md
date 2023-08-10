@@ -8,12 +8,16 @@ This repository contains the code to build a Node.js command-line application th
 
 From this assignment: I learned how to Jest, Inquirer to collect user input from command line 
 
+Video Tutorial: 
+https://watch.screencastify.com/v/wsBpRgV8jAj9UJlcdHtz 
+
 ## Installation
 To install this project within your computer, please follow the instruction below
 1. Open git bash
 2. Create your own file
 3. To clone the repository: type in git clone https://github.com/Seanye333/C10-SVG-Logo-Maker
 4. Use cd to navigate to file path 
+5. Type in npm install inquirer to install dependencies.
 5. Input "node index.js" to command line 
 6. Answer all question on command line 
 7. Open broswer 
